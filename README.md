@@ -1,5 +1,6 @@
 Hi, I'm Chanely Minaya! 👋
 Full-Stack Software Engineer | Healthcare Background | Problem Solver
+
 I'm a Full-Stack Software Engineer with a background in Public Health and Dental Hygiene, passionate about building technology that makes people's lives easier.
 
 My journey into tech started in healthcare, where troubleshooting technology and improving patient experiences inspired me to go from fixing technology to building it. Today, I combine my healthcare experience, analytical thinking, and software engineering skills to create reliable, accessible, and user-friendly applications.
