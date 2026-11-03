@@ -19,7 +19,7 @@ Building full-stack web applications using the MERN stack.
 Exploring technology solutions that improve dental healthcare.
 Creating responsive, accessible, and user-centered digital experiences.
 Strengthening my problem-solving skills through hands-on projects and continuous learning.
-💡 Beyond the Code
+Beyond the Code
 My healthcare background has taught me the importance of empathy, attention to detail, and understanding people's needs. I bring that same mindset to software development, focusing on building applications that are not only functional but also meaningful and easy to use.
 
 I'm always excited to learn new technologies, collaborate with other developers, and take on challenges that help me grow as an engineer.
